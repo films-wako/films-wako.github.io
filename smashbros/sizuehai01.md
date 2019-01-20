@@ -1,4 +1,5 @@
 # しずえ杯
+![](/assets/img/esports_game_taikai.png)
 
 ## 第一回 しずえ杯
 大乱闘スマッシュブラザーズSPECIALの大会  
